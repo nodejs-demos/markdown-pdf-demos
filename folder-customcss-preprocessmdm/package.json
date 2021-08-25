@@ -1,0 +1,28 @@
+{
+    "name": "folder-customcss-preprocessmdm",
+    "version": "1.0.0",
+    "description": "Sample showing how markdown-pdf can be used to generate pdf file from a folder or markdown files with custom css and preprocessing markdown transforms",
+    "main": "index.js",
+    "scripts": {
+        "start": "node md-to-pdf-converter.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nodejs-demos/markdown-pdf-demos.git"
+    },
+    "keywords": [
+        "markdown",
+        "pdf",
+        "css"
+    ],
+    "author": "Joy George Kunjikkuru",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nodejs-demos/markdown-pdf-demos/issues"
+    },
+    "homepage": "https://github.com/nodejs-demos/markdown-pdf-demos#readme",
+    "dependencies": {
+        "markdown-pdf": "^10.0.0"
+    }
+}

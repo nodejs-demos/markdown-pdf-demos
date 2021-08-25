@@ -1,0 +1,11 @@
+.pagebreak {
+    page-break-after: always;
+}
+
+body {
+    background-color: blue;
+}
+
+p {
+    text-align: justify;
+}
