@@ -5,7 +5,7 @@ Sample applications to demonstrate how [markdown-pdf](C:\source\repos\nodejs-dem
 
 Since the npm package is simple. All the samples are kept in this same repo in folders
 
-- [markdown-pdf-demos](/markdown-pdf-demos)
+- [markdown-pdf-demos](markdown-pdf-demos)
   - Folder conversion
   - Custom CSS
   - preProcessMd
